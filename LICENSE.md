@@ -1,4 +1,4 @@
-#  
+#  Enhance Asana for macOS with Asana for macOS automatic Script: goal tracking & auto-sync, the #1 script. Includes goal tracking and auto-sync for a smoother experience.
 
 
 
